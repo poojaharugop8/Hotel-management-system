@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510408952 source:c:\program1\hotelmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+

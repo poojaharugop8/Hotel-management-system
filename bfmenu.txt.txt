@@ -1,0 +1,11 @@
+            	 Welcome to D'10 Restaurant.        
+	       +============================+       
+                   $  Breakfast Menu  $
+&& Please select the food that you would like to purchase. &&
+  		   [0] Toast - Rs 30.00
+   		   [1] Idli-Vada - Rs 35.00
+    		   [2] Dosa - Rs 40.00
+    		   [3] UPMA Rs 20.00
+  		   [4] Milk- Rs 15.00
+    		   [5] Tea - Rs 20.00
+ 		   [6] Coffee - Rs 30.00
